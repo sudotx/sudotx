@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **react, solidity, python**
+- 💬 Ask me about **javascript, solidity, python**
 
 - 📫 How to reach me **octecca777@proton.me**
 
